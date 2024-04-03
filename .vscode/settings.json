@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Korisnik\\Documents\\RIT-4\\SWEN\\sad\\HumidityReader.jar",
+        "src/edu/rit/croatia/swen383/thirdparty/sensor/HumidityReader.jar"
+    ]
+}
